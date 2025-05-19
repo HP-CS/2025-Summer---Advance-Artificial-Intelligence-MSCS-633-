@@ -1,5 +1,14 @@
 Project: QR Code Generator
+Company: Biox Systems (https://www.bioxsystems.com)
 Language: Python 3.x
-Libraries: qrcode, pillow
-IDE: Visual Studio Code
-Usage: Run qr_generator.py, input a URL, and it generates and shows a QR code.
+Environment Setup:
+  1. Install Python
+  2. pip install qrcode[pil]
+  3. Run qr_generator.py
+  4. Enter a URL to generate a QR code image
+Best Practices:
+  - Code follows modular design with comments
+  - Input is validated
+  - Output is saved and displayed
+GitHub:
+  - Upload all source files to a GitHub repository and share the public URL
