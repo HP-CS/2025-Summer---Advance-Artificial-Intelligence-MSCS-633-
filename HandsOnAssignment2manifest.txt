@@ -1,0 +1,5 @@
+Project: QR Code Generator
+Language: Python 3.x
+Libraries: qrcode, pillow
+IDE: Visual Studio Code
+Usage: Run qr_generator.py, input a URL, and it generates and shows a QR code.
