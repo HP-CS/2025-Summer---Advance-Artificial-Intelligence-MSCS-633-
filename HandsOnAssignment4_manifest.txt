@@ -1,0 +1,7 @@
+fraud_detection_autoencoder.py - Python script that builds and trains a fraud detection model using PyOD's AutoEncoder. Includes preprocessing, training, prediction, and evaluation.
+
+classification_report.png - A heatmap visualization of the model's classification report, including precision, recall, and F1-score.
+
+summary.txt - A text file summarizing the model's performance, including the ROC AUC score and detailed classification report.
+
+requirements.txt - A list of Python libraries required to run the code (e.g., pyod, pandas, scikit-learn, matplotlib, seaborn).
